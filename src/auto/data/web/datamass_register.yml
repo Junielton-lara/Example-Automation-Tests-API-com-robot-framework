@@ -1,0 +1,16 @@
+DATA:
+  REGISTER:
+    NOME: Helder
+    ULT_NOME: Fernandes
+    EMAIL: helder.teste@robot.com
+    ENDERECO: Rua aprendendo automação
+    UNIVERSIDADE: FATEC
+    PROFISSAO: Tech Lead
+    GENERO: Masculino
+    IDADE: 37
+  #======================================================#
+    URL2: http://automationpractice.com/index.php?controller=authentication&back=my-account
+  MESSAGES:
+    MESSAGE_SUCCESS: Usuário Criado com sucesso
+    ERROR_NAME: "Name translation missing: pt-BR.activerecord.errors.models.user.attributes.name.blank"
+    ERROR_EMAIL: "Email translation missing: pt-BR.activerecord.errors.models.user.attributes.email.invalid"

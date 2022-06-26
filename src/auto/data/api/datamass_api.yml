@@ -1,0 +1,8 @@
+AUTH:
+  BASE_URL: https://fakerestapi.azurewebsites.net/api/v1
+  ID: '202'
+  TITLE: Aprendendo Robot
+  DESCRIPTION: Testando API de cadastro
+  PAGECOUNT: '5464'
+  EXCERPT: bla bla bla
+  PUBLISHDATE: '2022-10-16T11:01:21.168Z'

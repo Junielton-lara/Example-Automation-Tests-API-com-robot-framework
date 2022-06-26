@@ -1,0 +1,5 @@
+CONFIG:
+  WEB:
+    BROWSER_NAME: chrome
+    BASE_URL: https://automacaocombatista.herokuapp.com/users/new
+    IMPLICITY_WAIT: 20
